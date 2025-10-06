@@ -1,0 +1,30 @@
+# IDE ve Editor dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build klasörleri
+build/
+dist/
+*.apk
+*.ipa
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Dependency klasörleri
+node_modules/
+Pods/
+
+# Hassas bilgiler
+.env
+*.key
+*.jks
+*.keystore
+google-services.json
+GoogleService-Info.plist
