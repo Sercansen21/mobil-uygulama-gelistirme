@@ -4,16 +4,17 @@ Bu repoda mobil uygulama geliştirme projelerim yer almaktadır.
 
 ## 📱 Projeler
 
-### 1. Öğrenci Kayıt Sistemi
+### 1. [Öğrenci Kayıt Sistemi](./ogrenci-kayit-sistemi)
 - Öğrenci bilgilerini kaydetme ve yönetme uygulaması
-- **Teknolojiler:** [Kullandığınız teknoloji]
+- **Durum:** Tamamlandı ✅
+
+### 2. [Hesap Makinesi](./hesap-makinesi)
+- Temel matematiksel işlemler yapan hesap makinesi uygulaması
 - **Durum:** Tamamlandı ✅
 
 ## 🛠️ Kullanılan Teknolojiler
 
 - Android Studio / Flutter / React Native / Xcode
-- Java / Kotlin / Dart / Swift
+- Java / Kotlin / Dart / Swift / JavaScript
 
-## 👤 Geliştirici
-
-[Sercan Şen]
+## 📂 Proje Yapısı
