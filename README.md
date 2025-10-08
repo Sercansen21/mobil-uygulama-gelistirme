@@ -40,7 +40,7 @@ Temel matematiksel işlemler yapan hesap makinesi uygulaması.
 
 ### 3. Futbolcu Arayüzü
 
-<img src="futbolcu-arayuzu/screenshots/screenshot.png" width="400">
+<img src="Futbol_arayuz\screenshots/screenshot.png" width="400">
 
 Futbolcuların profil bilgilerini ve istatistiklerini görüntüleme uygulaması.
 
