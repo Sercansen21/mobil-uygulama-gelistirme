@@ -13,10 +13,10 @@ Android platformu için Kotlin dili kullanılarak geliştirilmiş mobil uygulama
 Öğrenci bilgilerini kaydetme, güncelleme ve yönetme uygulaması.
 
 **Özellikler:**
-- Öğrenci ekleme, güncelleme ve silme
-- Öğrenci listesi görüntüleme
-- Arama ve filtreleme
-- SQLite veritabanı ile veri saklama
+- Öğrenci ekleme, güncelleme ve silme  
+- Öğrenci listesi görüntüleme  
+- Arama ve filtreleme  
+- SQLite veritabanı ile veri saklama  
 
 **Teknolojiler:** Android Studio, Kotlin, SQLite
 
@@ -29,10 +29,26 @@ Android platformu için Kotlin dili kullanılarak geliştirilmiş mobil uygulama
 Temel matematiksel işlemler yapan hesap makinesi uygulaması.
 
 **Özellikler:**
-- Dört işlem (Toplama, Çıkarma, Çarpma, Bölme)
-- Ondalıklı sayı desteği
-- Temizleme ve geri alma fonksiyonları
-- Modern ve sezgisel arayüz
+- Dört işlem (Toplama, Çıkarma, Çarpma, Bölme)  
+- Ondalıklı sayı desteği  
+- Temizleme ve geri alma fonksiyonları  
+- Modern ve sezgisel arayüz  
+
+**Teknolojiler:** Android Studio, Kotlin
+
+---
+
+### 3. Futbolcu Arayüzü
+
+<img src="futbolcu-arayuzu/screenshots/screenshot.png" width="400">
+
+Futbolcuların profil bilgilerini ve istatistiklerini görüntüleme uygulaması.
+
+**Özellikler:**
+- Futbolcu fotoğrafı ve kişisel bilgiler  
+- Forma numarası, pozisyon, yaş ve takım bilgisi  
+- Maç, gol ve asist sayısı istatistikleri  
+- Basit ve kullanıcı dostu arayüz  
 
 **Teknolojiler:** Android Studio, Kotlin
 
@@ -40,10 +56,12 @@ Temel matematiksel işlemler yapan hesap makinesi uygulaması.
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **IDE:** Android Studio
-- **Dil:** Kotlin
-- **Min SDK:** API 21 (Android 5.0)
+- **IDE:** Android Studio  
+- **Dil:** Kotlin  
+- **Min SDK:** API 21 (Android 5.0)  
 - **Target SDK:** API 34 (Android 14)
+
+---
 
 ## 🚀 Kurulum
 
@@ -53,14 +71,3 @@ git clone https://github.com/Sercansen21/mobil-uygulama-gelistirme.git
 
 # İlgili proje klasörünü Android Studio ile açın
 # Gradle sync yapın ve uygulamayı çalıştırın
-```
-
-## 👤 Geliştirici
-
-**Sercan Şen**
-- GitHub: [@Sercansen21](https://github.com/Sercansen21)
-- Email: sen.sercan.21@email.com
-
----
-
-⭐ Bu projeleri beğendiyseniz yıldız vermeyi unutmayın!
