@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893610604300",
+    "project_id": "finalsinavi-e6330",
+    "storage_bucket": "finalsinavi-e6330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893610604300:android:762e4e79155e654d9c7b29",
+        "android_client_info": {
+          "package_name": "com.example.final_sinavi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48ybIS7-rPmhbzunQP6FVYBTJtTPm6nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

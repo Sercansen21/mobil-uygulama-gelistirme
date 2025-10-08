@@ -63,6 +63,26 @@ Futbolcuların profil bilgilerini ve istatistiklerini görüntüleme uygulaması
 
 ---
 
+### 4. SeCar - Araba İlanı
+
+<img src="SeCar/screenshots/screenshot.png" width="400">
+
+Kullanıcıların araba ilanı oluşturabildiği ve ilanları görüntüleyebildiği mobil uygulama.
+
+**Özellikler:**
+- Kullanıcı kaydı ve girişi (Firebase Authentication)  
+- İlan verilerinin Firestore Database’e kaydedilmesi  
+- Araç fotoğraflarının Firebase Storage’a yüklenmesi (izin yönetimi dahil)  
+- İlan verilerinin internetten çekilmesi ve RecyclerView’da listelenmesi  
+- Görsellerin Picasso kütüphanesiyle internetten yüklenmesi  
+- Temiz, düzenli ve anlaşılır kod yapısı  
+- Modern ve sade arayüz tasarımı  
+
+**Teknolojiler:** Android Studio, Kotlin, Firebase Auth, Firestore, Firebase Storage, Picasso
+
+---
+
+
 ## 🚀 Kurulum
 
 ```bash
