@@ -8,7 +8,7 @@ Android platformu için Kotlin dili kullanılarak geliştirilmiş mobil uygulama
 
 ### 1. Öğrenci Kayıt Sistemi
 
-![alt text](<ogrenci kaydı.png>)
+<img src="ogrenci-kayit-sistemi/screenshots/screenshot.png" width="400">
 
 Öğrenci bilgilerini kaydetme, güncelleme ve yönetme uygulaması.
 
@@ -24,7 +24,7 @@ Android platformu için Kotlin dili kullanılarak geliştirilmiş mobil uygulama
 
 ### 2. Hesap Makinesi
 
-![alt text](Hesap_makinesi.png)
+<img src="hesap-makinesi/screenshots/screenshot.png" width="400">
 
 Temel matematiksel işlemler yapan hesap makinesi uygulaması.
 
